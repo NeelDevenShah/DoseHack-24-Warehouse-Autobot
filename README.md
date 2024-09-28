@@ -9,9 +9,9 @@ Achievement: First Prize (25,000 INR)
 ### Team Members
 
 - Neel Shah (neeldevenshah@gmail.com) (Mentor)
-- Sandeep Swain (sandeepswain2004@gmail.com)
-- Divyarajsinh Vala (divyarajsinhvala06@gmail.com)
-- Apurv Chudasama (apurvchudasama.edu@gmail.com)
+- Sandeep Swain (sandeepswain2004@gmail.com) (Team Member)
+- Divyarajsinh Vala (divyarajsinhvala06@gmail.com) (Team Member)
+- Apurv Chudasama (apurvchudasama.edu@gmail.com) (Team Member)
 
 # Problem Description
 
